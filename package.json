@@ -14,5 +14,15 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/ronapelbaum/angular-jasmine/issues"
+  },
+  "dependencies": {
+    "jasmine-core": "~2.4.1",
+    "angular-mocks": "~1.5.0",
+    "angular": "~1.5.0",
+    "karma-jasmine": "~0.3.7"
+  },
+  "devDependencies": {
+    "karma": "~0.13.21",
+    "karma-chrome-launcher": "~0.2.2"
   }
 }
