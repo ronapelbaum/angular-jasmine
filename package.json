@@ -1,0 +1,18 @@
+{
+  "name": "angular-jasmine",
+  "version": "0.0.0",
+  "description": "learn jasmine unit-tests for angularjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ronapelbaum/angular-jasmine.git"
+  },
+  "author": "ronapelbaum@gmail.com",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/ronapelbaum/angular-jasmine/issues"
+  }
+}
