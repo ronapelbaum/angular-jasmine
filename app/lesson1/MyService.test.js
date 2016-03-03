@@ -6,7 +6,7 @@ describe('MyService test suite', function () {
     var MyService;
 
     //depend on module
-    beforeEach(module('aaa'));
+    beforeEach(module('lesson1'));
 
     //inject MyService (use angular's DI)
     beforeEach(inject(function (_MyService_) {
