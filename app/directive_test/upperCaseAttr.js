@@ -1,7 +1,7 @@
 (function (angular) {
     'use strict';
 
-    function upperCaseDirective() {
+    function upperCaseAttrDirective() {
         return {
             template: '<div>{{text}}</div>',
             link: function (scope, elem, attrs) {
@@ -10,5 +10,5 @@
         };
     }
 
-    angular.module('directive_test').directive('upperCaseAttr', [upperCaseDirective]);
+    angular.module('directive_test').directive('upperCaseAttr', [upperCaseAttrDirective]);
 })(angular);
