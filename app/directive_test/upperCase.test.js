@@ -1,6 +1,6 @@
 describe("UpperCaseDirective test suite", function() {
     var element, scope;
-    beforeEach(module('lesson3'));
+    beforeEach(module('directive_test'));
 
     beforeEach(inject(function($compile, $rootScope) {
         scope = $rootScope.$new();

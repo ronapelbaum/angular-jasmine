@@ -9,5 +9,5 @@
             return 'hello ' + name;
         }
     }
-    angular.module('lesson1').service('MyService', MyService);
+    angular.module('service_test').service('MyService', MyService);
 })(angular);

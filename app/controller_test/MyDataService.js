@@ -9,5 +9,5 @@
             return 'bob';
         }
     }
-    angular.module('lesson2').service('MyDataService', MyDataService);
+    angular.module('controller_test').service('MyDataService', MyDataService);
 })(angular);

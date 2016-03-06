@@ -10,5 +10,5 @@
         };
     }
 
-    angular.module('lesson2').controller('MyController', ['MyDataService', MyController]);
+    angular.module('controller_test').controller('MyController', ['MyDataService', MyController]);
 })(angular);

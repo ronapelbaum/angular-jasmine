@@ -6,7 +6,7 @@ describe('MyDataService test suite', function () {
     var MyDataService;
 
     //depend on module
-    beforeEach(module('lesson2'));
+    beforeEach(module('controller_test'));
 
     //inject MyService (use angular's DI)
     beforeEach(inject(function (_MyDataService_) {

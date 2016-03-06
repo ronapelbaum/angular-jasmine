@@ -3,7 +3,7 @@
  */
 describe('MyController test suite: use inject()', function () {
     var $controller, MyDataService;
-    beforeEach(module('lesson2'));
+    beforeEach(module('controller_test'));
 
     beforeEach(inject(function (_$controller_, _MyDataService_) {
             // The injector unwraps the underscores (_) from around the parameter names when matching
@@ -31,7 +31,7 @@ describe('MyController test suite: use inject()', function () {
 
 describe('MyController test suite: use simple DI', function () {
     var $controller;
-    beforeEach(module('lesson2'));
+    beforeEach(module('controller_test'));
 
     beforeEach(inject(function (_$controller_) {
         // The injector unwraps the underscores (_) from around the parameter names when matching
@@ -72,7 +72,7 @@ describe('MyController test suite: use $provide()', function () {
     var spyObj = jasmine.createSpyObj('MockService', ['getName']);
     spyObj.getName.and.returnValue('alice');
 
-    beforeEach(module('lesson2'));
+    beforeEach(module('controller_test'));
 
     beforeEach(module(function ($provide) {
         $provide.value('MyDataService', spyObj);
