@@ -4,7 +4,7 @@ describe("UpperCaseDirective test suite", function() {
 
     beforeEach(inject(function($compile, $rootScope) {
         scope = $rootScope.$new();
-        element = angular.element("<div upper-case text='Hello World'></div>");
+        element = angular.element("<div upper-case-attr text='Hello World'></div>");
         $compile(element)(scope);
         scope.$apply();
     }));

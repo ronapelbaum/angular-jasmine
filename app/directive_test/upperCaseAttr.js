@@ -10,5 +10,5 @@
         };
     }
 
-    angular.module('directive_test').directive('upperCase', [upperCaseDirective]);
+    angular.module('directive_test').directive('upperCaseAttr', [upperCaseDirective]);
 })(angular);
