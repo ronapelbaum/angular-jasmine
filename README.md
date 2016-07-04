@@ -1,6 +1,6 @@
 # angular-jasmine
 ### learn jasmine unit-tests for angularjs
 
-links:
+links (jsFiddle):
 
-[](https://jsfiddle.net/ronapelbaum/d8s1not8/)
+[scripting language](https://jsfiddle.net/ronapelbaum/d8s1not8/)
