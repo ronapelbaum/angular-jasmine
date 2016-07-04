@@ -1,5 +1,5 @@
 # angular-jasmine
-### learn jasmine unit-tests for angularjs
+### javascript Unit Tests with Angular 1.x
 
 links (jsFiddle):
 
