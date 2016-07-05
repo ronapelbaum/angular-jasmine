@@ -4,6 +4,7 @@
 links (jsFiddle):
 
 - [scripting language](https://jsfiddle.net/ronapelbaum/d8s1not8/)
+- [modular coding] (https://jsfiddle.net/ronapelbaum/y959gzeg/) 
 
 jasmine intro
 - [test a function] (https://jsfiddle.net/ronapelbaum/u6dLzpmc/)
@@ -23,3 +24,9 @@ angular + jasmine
  - [$scope (state on scope)] (https://jsfiddle.net/ronapelbaum/z8g8mk3h/)
 - [testing directives] (https://jsfiddle.net/ronapelbaum/xgojw58j/)
  - [scope] (https://jsfiddle.net/ronapelbaum/qorkcnnL/)
+
+common angular patterns
+- [$http] (https://jsfiddle.net/ronapelbaum/bhLmdkms/)
+- [$timeout] (https://jsfiddle.net/ronapelbaum/9mt79yaf/)
+- [events] (https://jsfiddle.net/ronapelbaum/9pogcprf/)
+- [promise] (https://jsfiddle.net/ronapelbaum/nd8t4ef0/)
