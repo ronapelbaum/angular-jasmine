@@ -16,6 +16,8 @@ jasmine intro
 
 angular + jasmine
 - [testing services] (https://jsfiddle.net/ronapelbaum/2fb53hbr/)
+ - [inject() + spyOn()] (https://jsfiddle.net/ronapelbaum/2fb53hbr/1)
+ - [$provide() + createSpyObj()] (https://jsfiddle.net/ronapelbaum/2fb53hbr/2)
 - [testing controllers] (https://jsfiddle.net/ronapelbaum/4hbb79rg/)
  - [controller as] (https://jsfiddle.net/ronapelbaum/uneb5gu5/)
  - [$scope (state on scope)] (https://jsfiddle.net/ronapelbaum/z8g8mk3h/)
