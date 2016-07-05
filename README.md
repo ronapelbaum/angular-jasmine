@@ -4,7 +4,6 @@
 links (jsFiddle):
 
 - [scripting language](https://jsfiddle.net/ronapelbaum/d8s1not8/)
-- 
 
 jasmine intro
 - [test a function] (https://jsfiddle.net/ronapelbaum/u6dLzpmc/)
